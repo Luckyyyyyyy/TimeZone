@@ -1,0 +1,22 @@
+{
+    "name": "linjincan/time-zone",
+    "description": "time zone",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ljc",
+            "email": "89148954@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Linjincan\\": "src/TimeZone"
+
+        }
+    }
+}
