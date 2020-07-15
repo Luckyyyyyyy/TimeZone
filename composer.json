@@ -11,12 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0"
+        "php": ">=5.6"
     },
     "autoload": {
         "psr-4": {
             "Linjincan\\": "src/TimeZone"
-
         }
     }
 }
