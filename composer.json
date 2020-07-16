@@ -3,6 +3,7 @@
     "description": "time zone",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "ljc",
