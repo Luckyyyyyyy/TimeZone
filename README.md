@@ -1,4 +1,4 @@
 # TimeZone
+composer require "linjincan/time-zone:dev-master"
 
-composer require "linjincan/time-zone:*"
 
